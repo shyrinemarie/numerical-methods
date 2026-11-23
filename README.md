@@ -2,7 +2,7 @@
 
 Classic numerical methods implemented by hand in Python, then benchmarked against NumPy and SciPy. For each method, I measure **how fast it converges**, **how stable it is**, and **how fast it runs**.
 
-This is my part of a scientific computing project carried out in pairs at **ENS Paris-Saclay** (January 2026), which ended with an oral presentation.
+This is my part of a scientific computing project carried out in pairs at **ENS Paris-Saclay** (January 2026), which ended with an oral presentation graded 20/20.
 
 ## Contents
 
